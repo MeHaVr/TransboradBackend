@@ -1,5 +1,7 @@
 # Bern Live Transit Board
 
+![LED-Platine des Bern Live Transit Boards mit Haltestellen und Strecken des Berner Verkehrsnetzes](docs/images/bern-transit-board.jpg)
+
 ## Projektübersicht
 
 Das **Bern Live Transit Board** ist ein IoT-Projekt, das die geschätzten aktuellen Positionen von Trams und Bussen im öffentlichen Verkehrsnetz von Bern auf einer physischen LED-Platine visualisiert.
